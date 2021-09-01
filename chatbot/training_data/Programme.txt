@@ -1,0 +1,33 @@
+What are the programmes offer in TARUC?
+There are many programmes offered in TARUC. Enter number SHORT FORM[PU/UG/PG] you interest : [PU] Pre-University [UG] Undergraduate [PG]Postgraduate 
+P
+There are many programmes offered in TARUC. Enter number SHORT FORM[PU/UG/PG] you interest : [PU] Pre-University [UG] Undergraduate [PG]Postgraduate 
+programme offer
+There are many programmes offered in TARUC. Enter number SHORT FORM[PU/UG/PG] you interest : [PU] Pre-University [UG] Undergraduate [PG]Postgraduate 
+programmes offer
+There are many programmes offered in TARUC. Enter number SHORT FORM[PU/UG/PG] you interest : [PU] Pre-University [UG] Undergraduate [PG]Postgraduate 
+PU
+Programme in Pre-University : Foundation in Accounting[FIAC], Foundation in Arts[FIAR], Foundation in Business[FIB], Foundation in Computing[FIC], Foundation in Engineering[FIE], Foundation in Science[FIS]. Type the name of programmes for receive details link. eg: FIS refer as Foundation of Science.
+FIAC
+Foundation in Accounting : https://www.tarc.edu.my/cpus/a/programmes/foundation-in-accounting/ 
+FIAR
+Foundation in Arts: https://www.tarc.edu.my/cpus/a/programmes/foundation-in-arts/ 
+FIB
+Foundation in Business : https://www.tarc.edu.my/cpus/a/programmes/foundation-in-business/ 
+FIC
+Foundation in Computing : https://www.tarc.edu.my/cpus/a/programmes/foundation-in-computing/ 
+FIE
+Foundation in Engineering : https://www.tarc.edu.my/cpus/a/programmes/foundation-in-engineering/ 
+FIS
+Foundation in Science : https://www.tarc.edu.my/cpus/a/programmes/foundation-in-science/ 
+UG 
+There are two catogories of undergraduate Programme, Bachelor Degree and Diploma, you may refer to this link. TARUC Bachelor Degree and Diploma : https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/
+Bachelor Degree
+TARUC Bachelor Degree and Diploma : https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/
+Bachelor
+TARUC Bachelor Degree and Diploma : https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/
+Diploma
+TARUC Bachelor Degree and Diploma : https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/
+PG
+Postgraduate Programme in TARUC consist of two catogories, Master and Doctor of Philosophy, you may refer to this link : https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/postgraduate-programme/
+
