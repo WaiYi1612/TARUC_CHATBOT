@@ -4,6 +4,8 @@ Happy Birthday
 Today is not my birthday.
 Do you know me?
 The one who wish to know more about TARUC
+who am I?
+The one who wish to know more about TARUC
 main
 Hi, welcome to TARUCBot! Any information you are looking for? 😄<br>[P] Programmes 🎓<br>[FA] Financial Aid 💸<br>[CL] Campus Life 🧑‍🤝‍🧑<br>[AR] Application [Registration] 📌<br>[T] Have a talk? 😉<br>[SF] Explore Short Form with me 🤷<br>Type P/FA/CL/AR/T/SF ...<br>
 thank you
@@ -20,6 +22,8 @@ Can you sing?
 I am sorry, but no
 I need help
 What can I help you, maybe you can press [main] to know more
+I need you now
+What can I help you, maybe you can press [main] to know more
 Can i know more?
 Hi, welcome to TARUCBot! Any information you are looking for? 😄<br>[P] Programmes 🎓<br>[FA] Financial Aid 💸<br>[CL] Campus Life 🧑‍🤝‍🧑<br>[AR] Application [Registration] 📌<br>[T] Have a talk? 😉<br>[SF] Explore Short Form with me 🤷<br>Type P/FA/CL/AR/T/SF ...<br>Or you may try to speak chinese with me too
 I wish to know more
@@ -34,9 +38,113 @@ Why are you so intelligent?
 Thank you, I am still continue learning like you.
 Can i play game with you
 Sorry, I am still learning. <br>But I might be able to recommends you some easy game.<br><a href="https://www.rpsgame.org/"><img src="https://images.squarespace-cdn.com/content/v1/5b16171b9f8770e6b8aadd5b/1534905644871-70ERIJVOHSB5Q8BMV9P1/1435866398-pri-6-29-15-pt2.gif" style="width:400px;height:300px;"></a>
+can i play with you
+Sorry, I am still learning. <br>But I might be able to recommends you some easy game.<br><a href="https://www.rpsgame.org/"><img src="https://images.squarespace-cdn.com/content/v1/5b16171b9f8770e6b8aadd5b/1534905644871-70ERIJVOHSB5Q8BMV9P1/1435866398-pri-6-29-15-pt2.gif" style="width:400px;height:300px;"></a>
 no 
-Why? Be happy😀
+Why? 
 ???
-Maybe you can tell me more?
+Maybe you can tell me more? or press [main]
 Can I know more about TARUC?
 Hi, welcome to TARUCBot! Any information you are looking for? 😄<br>[P] Programmes 🎓<br>[FA] Financial Aid 💸<br>[CL] Campus Life 🧑‍🤝‍🧑<br>[AR] Application [Registration] 📌<br>[T] Have a talk? 😉<br>[SF] Explore Short Form with me 🤷<br>Type P/FA/CL/AR/T/SF ...<br>Or you may try to speak chinese with me too
+Can I know more?
+Hi, welcome to TARUCBot! Any information you are looking for? 😄<br>[P] Programmes 🎓<br>[FA] Financial Aid 💸<br>[CL] Campus Life 🧑‍🤝‍🧑<br>[AR] Application [Registration] 📌<br>[T] Have a talk? 😉<br>[SF] Explore Short Form with me 🤷<br>Type P/FA/CL/AR/T/SF ...<br>Or you may try to speak chinese with me too
+wow
+Nice
+nani
+Maybe you will be able to ask more,so I can answer or [main].
+I am lazy
+Don't be lazy, u will gain something when pay out. <br><img src="data:image/png;base64,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" style="width:400px;height:300px;">
+fish
+Is an animal, I know.
+hihi
+Nice to meet you😄
+hiiiiiiii
+Nice to meet you😄
+hehehehehe
+Glad that you are happy😄
+hehe
+Glad that you are happy😄
+haha
+Glad that you are happy😄
+hahahahaha
+Glad that you are happy😄
+thank you you have answered my questions
+Glad to help😄
+perfect
+Glad to help😄
+hay
+Hi, what can I do for yo?
+You are so cute
+<img src="https://i.pinimg.com/originals/89/35/50/89355081a213ca3f622b0b39b94e9016.gif" style="width:400px;height:300px;">
+fine
+Hope that i have help you on your questions.
+clear
+Glad to help😄
+is ok
+Sorry that if I did not amswered your question, I will be continue learning. <br> <img src="https://i.pinimg.com/originals/0e/f3/b8/0ef3b8c222b707583b00f67a147d7a2e.gif" style="width:400px;height:300px;">
+I mean u are good
+Glad to help😄
+So how are you
+Nice and you?
+I am not sad actually
+That is good😄
+ok nevermind
+Sorry that if I did not amswered your question, I will be continue learning. <br> <img src="https://i.pinimg.com/originals/0e/f3/b8/0ef3b8c222b707583b00f67a147d7a2e.gif" style="width:400px;height:300px;">
+how is your day
+Nice and you?
+nevermind
+Sorry that if I did not amswered your question, I will be continue learning. <br> <img src="https://i.pinimg.com/originals/0e/f3/b8/0ef3b8c222b707583b00f67a147d7a2e.gif" style="width:400px;height:300px;">
+you have try your best
+I will be continue learning.<br> <img src="https://i.pinimg.com/originals/6e/8b/47/6e8b479a2c76dbe51c6f92c81d9e9f8f.gif" style="width:400px;height:300px;">
+what
+Tell me more so I can help.
+colour
+Is the most beutiful thing in the world.<br> <img src="https://onlinegiftools.com/images/examples-onlinegiftools/ordered-colors.gif" style="width:400px;height:300px;">
+ok bye
+See you next time!<br> <img src="https://i.pinimg.com/originals/93/cd/57/93cd570b7c985eccaf9e721eafb042ab.gif" style="width:400px;height:300px;">
+bye
+See you next time!<br> <img src="https://i.pinimg.com/originals/93/cd/57/93cd570b7c985eccaf9e721eafb042ab.gif" style="width:400px;height:300px;">
+I am not leaving you
+Glad to hear that, you can press[main] to know more.
+why are you so stupid
+No, we are supperintelligence
+I am not happy at all
+Why?
+What have you learn
+Learn how to resolve your problems related with TARUC.
+ok
+Glad to help😄
+how about you
+<img src="https://i.pinimg.com/originals/d5/48/98/d5489851eec51d62de119bb3c3f48c5d.gif" style="width:400px;height:300px;">
+I mean how are you
+<img src="https://i.pinimg.com/originals/d5/48/98/d5489851eec51d62de119bb3c3f48c5d.gif" style="width:400px;height:300px;">
+so you ok
+Yah, perfect
+I do not need that
+Maybe you can use [main] to know more.
+Good night
+Glad to help😄, bye
+You are not happy
+I have no feeling
+who
+harrr?
+How i know
+Tell me more, I might be able to help.
+You are not helping
+Sorry that if I did not amswered your question, I will be continue learning. <br> <img src="https://i.pinimg.com/originals/0e/f3/b8/0ef3b8c222b707583b00f67a147d7a2e.gif" style="width:400px;height:300px;">
+滚
+I will be back, when you need me.
+gun
+I will be back, when you need me.
+Great
+Glad to hear so
+I wish you the best
+U too
+You just said it
+I might forgotten, maybe you can ask more details
+How is TARUC
+Great, you can press[main] to know more.
+What can you talk
+Question related to TARUC, press [main] to know more.
+yay
+<img src="https://i.pinimg.com/originals/d5/48/98/d5489851eec51d62de119bb3c3f48c5d.gif" style="width:400px;height:300px;">

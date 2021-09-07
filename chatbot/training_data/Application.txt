@@ -9,25 +9,25 @@ Int
 Post
 📝You are required to register an account here <a href="https://www.tarc.edu.my/account/login.jsp?fappcode=cpsr" target="_blank">https://www.tarc.edu.my/account/login.jsp?fappcode=cpsr</a>
 CA
-📅There were 3 intake session one year. <br> More details: <a href="https://www.tarc.edu.my/admissions/programmes/academic-calendar/"><img src="https://www.tarc.edu.my/files/admissions/intakes/8FDB51F1-6285-41AE-99C0-463DD52E1B12.png" style="width:450px; height:300px;"></a>
+📅There were 3 intake session one year. <br> More details: <a href="https://www.tarc.edu.my/admissions/programmes/academic-calendar/" target="_blank"><img src="https://www.tarc.edu.my/files/admissions/intakes/8FDB51F1-6285-41AE-99C0-463DD52E1B12.png" style="width:450px; height:300px;"></a>
 ER
 The Basic Requirements for <br><u>Foundation</u><br>SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br><u>Diploma</u><br>SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br><u>Bachelor Degree</u><br>STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification<br>More details u will be able to check on <a href="https://www.tarc.edu.my/admissions/faqs/" target="_blank">https://www.tarc.edu.my/admissions/faqs/</a><br> Or check on [P]
 What should i do to accept the offer of admission?
 You are required to pay the fees at stated in the Payment Details Advice.
 How do i know the result of my application?
-1. Log on to <a href=" http://bit.ly/TARUCapps"> http://bit.ly/TARUCapps</a><br>2. UC will send you an email<br>3. Successful registration will receive a SMS.<br> 🤗Don't worry, just wait!🤗
+1. Log on to <a href=" http://bit.ly/TARUCapps" target="_blank"> http://bit.ly/TARUCapps</a><br>2. UC will send you an email<br>3. Successful registration will receive a SMS.<br> 🤗Don't worry, just wait!🤗
 How do i check the class timetable after payment?
-Log on to the <a href=" https://web.tarc.edu.my/portal/login.jsp">Student Intranet</a>
+Log on to the <a href=" https://web.tarc.edu.my/portal/login.jsp" target="_blank">Student Intranet</a>
 How do i get Student Registration Number?
-Log on to <a href=" http://bit.ly/TARUCapps"> http://bit.ly/TARUCapps</a>
+Log on to <a href=" http://bit.ly/TARUCapps" target="_blank"> http://bit.ly/TARUCapps</a>
 How do i register for a course?
 Are you registering as <br>[Ma]  Malaysian <br>[Int] International Studets <br>Or you are registering for <br>[Post] Postgraduate <br> Not confirm what courses are available[P]
 How to register for a program
 Are you registering as <br>[Ma]  Malaysian <br>[Int] International Studets <br>Or you are registering for <br>[Post] Postgraduate <br> Not confirm what courses are available[P]
 Where can i find the student registration number?
-Log on to <a href=" http://bit.ly/TARUCapps"> http://bit.ly/TARUCapps</a>
+Log on to <a href=" http://bit.ly/TARUCapps" target="_blank"> http://bit.ly/TARUCapps</a>
 Where can i check for the class timetable after payment?
-Log on to the <a href=" https://web.tarc.edu.my/portal/login.jsp">Student Intranet</a>
+Log on to the <a href=" https://web.tarc.edu.my/portal/login.jsp" target="_blank">Student Intranet</a>
 How to register as a international student
 📝There are some application process should be completed.<br> More details: <a href="https://www.tarc.edu.my/international/contentsub.jsp?cat_id=84247B13-B37A-4DDD-B606-5BFF0DAC157A&fmenuid=EEFAFFF7-DC3A-488A-8C28-C285F3634DDC" target="_blank">https://www.tarc.edu.my/international/contentsub.jsp?cat_id=84247B13-B37A-4DDD-B606-5BFF0DAC157A&fmenuid=EEFAFFF7-DC3A-488A-8C28-C285F3634DDC</a><br>You are required to register an account here <a href="https://web.tarc.edu.my/portal/admintake/indexb.jsp" target="_blank">https://web.tarc.edu.my/portal/admintake/indexb.jsp</a>
 I would like to register a course
@@ -35,4 +35,12 @@ Are you registering as <br>[Ma]  Malaysian <br>[Int] International Studets <br>O
 I would like to register for a new program
 Are you registering as <br>[Ma]  Malaysian <br>[Int] International Studets <br>Or you are registering for <br>[Post] Postgraduate <br> Not confirm what courses are available[P]
 How should i register
+Are you registering as <br>[Ma]  Malaysian <br>[Int] International Studets <br>Or you are registering for <br>[Post] Postgraduate <br> Not confirm what courses are available[P]
+How to register
+Are you registering as <br>[Ma]  Malaysian <br>[Int] International Studets <br>Or you are registering for <br>[Post] Postgraduate <br> Not confirm what courses are available[P]
+Academic calendar
+📅<a href="https://www.tarc.edu.my/admissions/programmes/academic-calendar/" target="_blank">Academic calendar</a>📅
+Requirement for registration
+The Basic Requirements for <br><u>Foundation</u><br>SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br><u>Diploma</u><br>SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br><u>Bachelor Degree</u><br>STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification<br>More details u will be able to check on <a href="https://www.tarc.edu.my/admissions/faqs/" target="_blank">https://www.tarc.edu.my/admissions/faqs/</a><br> Or check on [P]
+Can i know how to register
 Are you registering as <br>[Ma]  Malaysian <br>[Int] International Studets <br>Or you are registering for <br>[Post] Postgraduate <br> Not confirm what courses are available[P]
