@@ -1,15 +1,39 @@
 FA
-Are you looking for ? PTPTN[PTPTN], TARUC Scholarship [TS] or Study Loans [SL]? Please Type PTPTN/TS/SL
+Are you looking for ? <br>[PTPTN] PTPTN <br>[TS] TARUC Scholarship <br>[SL] Study Loans  <br><br>Please Type PTPTN/TS/SL
+Financial Aid
+Are you looking for ? <br>[PTPTN] PTPTN <br>[TS] TARUC Scholarship <br>[SL] Study Loans  <br><br>Please Type PTPTN/TS/SL
+financial aid
+Are you looking for ? <br>[PTPTN] PTPTN <br>[TS] TARUC Scholarship <br>[SL] Study Loans  <br><br>Please Type PTPTN/TS/SL
 PTPTN
-Here, is the link provide all related PTPTN : https://www.tarc.edu.my/dsa/financial-aid/ptptn/
+Here, is the <a href="https://www.tarc.edu.my/dsa/financial-aid/ptptn/" target="_blank">link</a> provide all related PTPTN. <br>Tutorial video you may need: <br><iframe width="420" height="315" src="https://www.youtube.com/embed/qWGCeME2_vI"></iframe>
 What is PTPTN?
-Here, is the link provide all related PTPTN : https://www.tarc.edu.my/dsa/financial-aid/ptptn/
+Here, is the <a href="https://www.tarc.edu.my/dsa/financial-aid/ptptn/" target="_blank">link</a> provide all related PTPTN. <br>Tutorial video you may need: <br><iframe width="420" height="315" src="https://www.youtube.com/embed/qWGCeME2_vI"></iframe>
 What is ptptn?
-Here, is the link provide all related PTPTN : https://www.tarc.edu.my/dsa/financial-aid/ptptn/
+Here, is the <a href="https://www.tarc.edu.my/dsa/financial-aid/ptptn/" target="_blank">link</a> provide all related PTPTN. <br>Tutorial video you may need: <br><iframe width="420" height="315" src="https://www.youtube.com/embed/qWGCeME2_vI"></iframe>
+How to apply PTPTN?
+Here, is the <a href="https://www.tarc.edu.my/dsa/financial-aid/ptptn/" target="_blank">link</a> provide all related PTPTN. <br>Tutorial video you may need: <br><iframe width="420" height="315" src="https://www.youtube.com/embed/qWGCeME2_vI"></iframe>
+how to apply ptptn
+Here, is the <a href="https://www.tarc.edu.my/dsa/financial-aid/ptptn/" target="_blank">link</a> provide all related PTPTN. <br>Tutorial video you may need: <br><iframe width="420" height="315" src="https://www.youtube.com/embed/qWGCeME2_vI"></iframe>
+How to apply ptptn?
+Here, is the <a href="https://www.tarc.edu.my/dsa/financial-aid/ptptn/" target="_blank">link</a> provide all related PTPTN. <br>Tutorial video you may need: <br><iframe width="420" height="315" src="https://www.youtube.com/embed/qWGCeME2_vI"></iframe>
+how to apply ptptn?
+Here, is the <a href="https://www.tarc.edu.my/dsa/financial-aid/ptptn/" target="_blank">link</a> provide all related PTPTN. <br>Tutorial video you may need: <br><iframe width="420" height="315" src="https://www.youtube.com/embed/qWGCeME2_vI"></iframe>
+How to apply ptptn?
+Here, is the <a href="https://www.tarc.edu.my/dsa/financial-aid/ptptn/" target="_blank">link</a> provide all related PTPTN. <br>Tutorial video you may need: <br><iframe width="420" height="315" src="https://www.youtube.com/embed/qWGCeME2_vI"></iframe>
 TS
-Here, is the information about scholarship you may apply for : https://www.tarc.edu.my/dsa/financial-aid/scholarships-grants/
+Here, is the information about scholarship you may apply for : <a href="https://www.tarc.edu.my/dsa/financial-aid/scholarships-grants/" target="_blank">TARUC Scholarship</a>
+TARUC Scholarship
+Here, is the information about scholarship you may apply for : <a href="https://www.tarc.edu.my/dsa/financial-aid/scholarships-grants/" target="_blank">TARUC Scholarship</a>
+taruc scholarship
+Here, is the information about scholarship you may apply for : <a href="https://www.tarc.edu.my/dsa/financial-aid/scholarships-grants/" target="_blank">TARUC Scholarship</a>
+scholarship
+Here, is the information about scholarship you may apply for : <a href="https://www.tarc.edu.my/dsa/financial-aid/scholarships-grants/" target="_blank">TARUC Scholarship</a>
 SL
-Don't worry, TARUC provide you a study loan, explore : https://www.tarc.edu.my/dsa/financial-aid/study-loans/
+Don't worry, TARUC provide you a study loan, explore : <a href="https://www.tarc.edu.my/dsa/financial-aid/study-loans/" target="_blank">link </a>
+Study Loan
+Don't worry, TARUC provide you a study loan, explore : <a href="https://www.tarc.edu.my/dsa/financial-aid/study-loans/" target="_blank">link </a>
+study loan
+Don't worry, TARUC provide you a study loan, explore : <a href="https://www.tarc.edu.my/dsa/financial-aid/study-loans/" target="_blank">link </a>
 What is the estimated total fees of pursuing a programme of study at TAR UC for the upcoming academic year? 
 The estimated total fees of pursuing a programme at TAR UC can be found here. 
 When can I apply for financial aid in TAR UC? 

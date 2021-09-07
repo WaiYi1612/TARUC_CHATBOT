@@ -33,12 +33,13 @@ chatbot = ChatBot(
 #training_data = training_data_quesans + training_data_personal
 
 #Introduce + Programme + Financial
-training_introduce = open('training_data/Introduce.txt').read().splitlines() 
-training_programme = open('training_data/Programme.txt').read().splitlines()
-training_financial_aid = open('training_data/FinancialAid.txt').read().splitlines()
-training_short_form = open('training_data/ShortForm.txt').read().splitlines()
+training_introduce = open('training_data/Introduce.txt',encoding='utf-8', errors='ignore').read().splitlines()
+training_programme = open('training_data/Programme.txt',encoding='utf-8', errors='ignore').read().splitlines()
+training_financial_aid = open('training_data/FinancialAid.txt',encoding='utf-8', errors='ignore').read().splitlines()
+training_short_form = open('training_data/ShortForm.txt',encoding='utf-8', errors='ignore').read().splitlines()
+training_chinese_dialogue = open('training_data/ChineseDialogue.txt',encoding='utf-8', errors='ignore').read().splitlines()
 
-conversation = training_introduce + training_programme + training_financial_aid + training_short_form
+conversation = training_introduce + training_programme + training_financial_aid + training_short_form + training_chinese_dialogue
 
 trainer = ListTrainer(chatbot)
 trainer.train(conversation)  
@@ -47,7 +48,8 @@ trainer.train(conversation)
 # Training with English Corpus Data 
 trainer_corpus = ChatterBotCorpusTrainer(chatbot)
 trainer_corpus.train(
-    'chatterbot.corpus.english'
+    'chatterbot.corpus.english',
+    'chatterbot.corpus.chinese'
 ) 
 
 
