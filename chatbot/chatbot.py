@@ -14,7 +14,6 @@ chatbot = ChatBot(
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
     logic_adapters=[
         'chatterbot.logic.MathematicalEvaluation',
-        'chatterbot.logic.TimeLogicAdapter',
         'chatterbot.logic.BestMatch',
         {
             'import_path': 'chatterbot.logic.BestMatch',
@@ -37,9 +36,12 @@ training_introduce = open('training_data/Introduce.txt',encoding='utf-8', errors
 training_programme = open('training_data/Programme.txt',encoding='utf-8', errors='ignore').read().splitlines()
 training_financial_aid = open('training_data/FinancialAid.txt',encoding='utf-8', errors='ignore').read().splitlines()
 training_short_form = open('training_data/ShortForm.txt',encoding='utf-8', errors='ignore').read().splitlines()
+training_campus_life = open('training_data/CampusLife.txt',encoding='utf-8', errors='ignore').read().splitlines()
+training_application = open('training_data/Application.txt',encoding='utf-8', errors='ignore').read().splitlines()
+training_talk = open('training_data/Talk.txt',encoding='utf-8', errors='ignore').read().splitlines()
 training_chinese_dialogue = open('training_data/ChineseDialogue.txt',encoding='utf-8', errors='ignore').read().splitlines()
 
-conversation = training_introduce + training_programme + training_financial_aid + training_short_form + training_chinese_dialogue
+conversation = training_introduce + training_programme + training_financial_aid + training_short_form + training_chinese_dialogue + training_campus_life + training_application + training_talk
 
 trainer = ListTrainer(chatbot)
 trainer.train(conversation)  
