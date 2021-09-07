@@ -1,0 +1,28 @@
+AR
+Are you ready for <br>[Reg] Application/Register <br>[CA]  When are the intake or clases start <br>[ER]  Entry Requirements
+Reg
+Are you registering as <br>[Ma]  Malaysian <br>[Int] International Studets <br>Or you are registering for <br>[Post] Postgraduate <br> Not confirm what courses are available[P]
+Ma
+📝There are some documentation required for online application.<br> More details: <a href="https://www.tarc.edu.my/admissions/application/application-process/" target="_blank">https://www.tarc.edu.my/admissions/application/application-process/</a> <br>You are required to register an account here <a href="https://www.tarc.edu.my/account/login.jsp?fappcode=online-app" target="_blank">https://www.tarc.edu.my/account/login.jsp?fappcode=online-app</a><br>There will be a fee of RM60 for online application, and the result of application will be notified by sms and email. So please give out the correct information, we are looking forward to meet you
+Int
+📝There are some application process should be completed.<br> More details: <a href="https://www.tarc.edu.my/international/contentsub.jsp?cat_id=84247B13-B37A-4DDD-B606-5BFF0DAC157A&fmenuid=EEFAFFF7-DC3A-488A-8C28-C285F3634DDC" target="_blank">https://www.tarc.edu.my/international/contentsub.jsp?cat_id=84247B13-B37A-4DDD-B606-5BFF0DAC157A&fmenuid=EEFAFFF7-DC3A-488A-8C28-C285F3634DDC</a><br>You are required to register an account here <a href="https://web.tarc.edu.my/portal/admintake/indexb.jsp" target="_blank">https://web.tarc.edu.my/portal/admintake/indexb.jsp</a>
+Post
+📝You are required to register an account here <a href="https://www.tarc.edu.my/account/login.jsp?fappcode=cpsr" target="_blank">https://www.tarc.edu.my/account/login.jsp?fappcode=cpsr</a>
+CA
+📅There were 3 intake session one year. <br> More details: <a href="https://www.tarc.edu.my/admissions/programmes/academic-calendar/">https://www.tarc.edu.my/admissions/programmes/academic-calendar/</a>
+ER
+The Basic Requirements for <br><u>Foundation</u><br>SPM with 5 credits / O Level with 5 Grade C / UEC with 3 Grade B or equivalent qualification<br><u>Diploma</u><br>SPM with 3 credits / O Level with 3 Grade C / UEC with 3 Grade B or equivalent qualification<br><u>Bachelor Degree</u><br>STPM with 2 principal pass / A Level with 2 Grade D / UEC with 5 Grade B or equivalent qualification<br>More details u will be able to check on <a href="https://www.tarc.edu.my/admissions/faqs/" target="_blank">https://www.tarc.edu.my/admissions/faqs/</a><br> Or check on [P]
+What should i do to accept the offer of admission?
+You are required to pay the fees at stated in the Payment Details Advice.
+How do i know the result of my application?
+1. Log on to <a href=" http://bit.ly/TARUCapps"> http://bit.ly/TARUCapps</a><br>2. UC will send you an email<br>3. Successful registration will receive a SMS.<br> 🤗Don't worry, just wait!🤗
+How do i check the class timetable after payment?
+Log on to the <a href=" https://web.tarc.edu.my/portal/login.jsp">Student Intranet</a>
+How do i get Student Registration Number?
+Log on to <a href=" http://bit.ly/TARUCapps"> http://bit.ly/TARUCapps</a>
+How do i register for a course?
+Are you registering as <br>[Ma]  Malaysian <br>[Int] International Studets <br>Or you are registering for <br>[Post] Postgraduate <br> Not confirm what courses are available[P]
+Where can i find the student registration number?
+Log on to <a href=" http://bit.ly/TARUCapps"> http://bit.ly/TARUCapps</a>
+Where can i check for the class timetable after payment?
+Log on to the <a href=" https://web.tarc.edu.my/portal/login.jsp">Student Intranet</a>
