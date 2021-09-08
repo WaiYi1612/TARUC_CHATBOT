@@ -1,5 +1,7 @@
 CL
 What are the details you wish to know<br> [Hostel] Accomondation 🛏 <br> [Trans] Transportaion 🚌 <br> [Fac] Sports Facilities 🏸 <br> [Soc] Societies/Clubs 🎨🥋 <br> [Co] Co-curricular Courses ⛹️‍♀️ <br> [Wear] Student Dress Code 👔 <br> [Locker] Locker Services 🗄 <br> [Tour] Virtual Tour 🧑‍🏫 
+tell me about campus life
+What are the details you wish to know<br> [Hostel] Accomondation 🛏 <br> [Trans] Transportaion 🚌 <br> [Fac] Sports Facilities 🏸 <br> [Soc] Societies/Clubs 🎨🥋 <br> [Co] Co-curricular Courses ⛹️‍♀️ <br> [Wear] Student Dress Code 👔 <br> [Locker] Locker Services 🗄 <br> [Tour] Virtual Tour 🧑‍🏫 
 Hostel
 On-Campus Hostel is available at KL Main Campus, Hostel avaibility is based on first-come-first-serve. You are only able to apply after paying tuition fees and apply at TARC INTRANET.<br><a href="https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/">More details</a> <br><img src="https://www.tarc.edu.my/files/dsa/EFFD87A3-27BD-4105-94E3-CF1A606EDFA2.jpg" alt="hostel" style="width:300px;height:300px;"><br>Teratai Residency <a href="https://www.tarc.edu.my/dsa/a/accommodation/accommodation-kl-main-campus/>More details</a> <br><a href="https://www.tarc.edu.my/files/dsa/form/08A9E04B-E19E-47E9-A718-FFBF95E38B71.pdf">Application Form</a><br><img src="https://www.tarc.edu.my/files/dsa/EA661DA0-782B-4DCE-ADCE-1865105E2080.jpg" style="width:300px;height:500px;"><br>There are also many Off-Campus Hostel that you might able find from facebook with TARC MARKET for more information.
 Trans
@@ -36,4 +38,9 @@ What can i do in TARUC?
 You will be able to use the facilities supply by TARUC. <br>Press[CL]to know more.
 Tour
 Press the image below to have a tour of TARUC <br> <a href="https://www.tarc.edu.my/kl/virtual-tour/" target="_blank"><img src="https://www.easyuni.com/media/institution/photo/2017/02/20/0_Use_As_Main_Photo.jpg.600x400_q85.jpg" style="width:350px;height:250px;"></a>
-
+show me TARUC map
+<a href="https://imgv2-2-f.scribdassets.com/img/document/339707399/original/a95d4b871d/1627005263?v=1" target="_blank"><img src="https://imgv2-2-f.scribdassets.com/img/document/339707399/original/a95d4b871d/1627005263?v=1" style="width:350px;height:250px;"></a>
+what should i do, if study in taruc
+There were several of activities and facilities you are able to use, press [CL] to know more.
+what could i do if study in taruc
+There were several of activities and facilities you are able to use, press [CL] to know more.
