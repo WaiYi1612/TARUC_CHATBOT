@@ -20,7 +20,7 @@ chatbot = ChatBot(
            
         },
         'chatterbot.logic.BestMatch',
-        'chatterbot.logic.MathematicalEvaluation'
+        'chatterbot.logic.MathematicalEvaluation'        
         
     ],
     database_uri='sqlite:///database.sqlite3'
