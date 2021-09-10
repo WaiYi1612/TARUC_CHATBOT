@@ -48,7 +48,7 @@ trainer = ListTrainer(chatbot)
 trainer.train(conversation)  
 
 
-# Training with English Corpus Data 
+# Training with English and Chinese Corpus Data 
 trainer_corpus = ChatterBotCorpusTrainer(chatbot)
 trainer_corpus.train(
     'chatterbot.corpus.english',
