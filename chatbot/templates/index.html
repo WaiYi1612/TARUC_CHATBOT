@@ -27,7 +27,7 @@
         <div class="msg-bubble">
           <div class="msg-info">
             <div class="msg-info-name">TARUCBOT</div>
-            <div class="msg-info-time"> <span id='time'></span></div>
+            <div class="msg-info-time"> <time><span id='time'></span></time></div>
           </div>
 
           <div class="msg-text">
@@ -52,11 +52,6 @@
     </form>
   </section>
   <!-- partial -->
-  <script>
-    var today = new Date();
-    var time = today.getHours() + ":" + today.getMinutes();
-    document.getElementById('time').innerHTML= time.format("HH:mm");
-    </script>
   <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
   <script>
 
@@ -131,7 +126,8 @@
       return `${h.slice(-2)}:${m.slice(-2)}`;
     }
 
-
+    
+    document.getElementById('time').innerHTML= formatDate(new Date());
 
   </script>
 
